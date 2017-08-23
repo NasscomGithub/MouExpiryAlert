@@ -1,0 +1,15 @@
+F:\Nasscom New Projects\MOU Expiry Alert\MOU Expiry Alert\obj\Debug\MOU_Expiry_Alert.ProjectInstaller.resources
+F:\Nasscom New Projects\MOU Expiry Alert\MOU Expiry Alert\obj\Debug\MOU Expiry Alert.csproj.GenerateResource.Cache
+F:\Nasscom New Projects\MOU Expiry Alert\MOU Expiry Alert\bin\Debug\DocumentFormat.OpenXml.dll
+F:\Nasscom New Projects\MOU Expiry Alert\MOU Expiry Alert\bin\Debug\MOUExpiryAlert.exe.config
+F:\Nasscom New Projects\MOU Expiry Alert\MOU Expiry Alert\bin\Debug\MOUExpiryAlert.exe
+F:\Nasscom New Projects\MOU Expiry Alert\MOU Expiry Alert\bin\Debug\MOUExpiryAlert.pdb
+F:\Nasscom New Projects\MOU Expiry Alert\MOU Expiry Alert\obj\Debug\MOUExpiryAlert.exe
+F:\Nasscom New Projects\MOU Expiry Alert\MOU Expiry Alert\obj\Debug\MOUExpiryAlert.pdb
+F:\Nasscom New Projects\MOU Expiry Alert\MOU Expiry Alert\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Nasscom New Projects\MOU Expiry Alert\MOU Expiry Alert\bin\Debug\Excel.pdb
+F:\Nasscom New Projects\MOU Expiry Alert\MOU Expiry Alert\bin\Debug\itextsharp.dll
+F:\Nasscom New Projects\MOU Expiry Alert\MOU Expiry Alert\bin\Debug\itextsharp.xmlworker.dll
+F:\Nasscom New Projects\MOU Expiry Alert\MOU Expiry Alert\bin\Debug\itextsharp.xml
+F:\Nasscom New Projects\MOU Expiry Alert\MOU Expiry Alert\bin\Debug\ClosedXML.xml
+F:\Nasscom New Projects\MOU Expiry Alert\MOU Expiry Alert\obj\Debug\MOU Expiry Alert.csprojResolveAssemblyReference.cache
